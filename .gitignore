@@ -1,0 +1,19 @@
+.micromamba/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+
+# PlateModelManager lowercase symlink
+data/muller2019
+
+# Age grids (~8 MB × 61); re-download via GPlately PlateModelManager
+data/Muller2019/Rasters/
+
+# Per-transect SubMap API dump and paper PDFs (CSVs are committed)
+data/submap/submap_api_raw/
+data/submap/cerpa2025/
+data/submap/other_sources/
+data/submap/*.pdf
+data/submap/submap_transects_full.json
