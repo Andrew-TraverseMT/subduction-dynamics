@@ -6,7 +6,7 @@ Investigator: Grok, Tectonics Researcher. Advisor: Andrew Laskowski.
 
 ## Status
 
-Present-day (0 Ma) milestone is in. Cenozoic trench catalog (0–60 Ma, 1 Myr) is extracted. Cenozoic UPS proxy (`bab_on`, reconstruction-internal) is in. Müller et al. (2019) **cannot** separate trench rollback from overriding-plate motion (`v_T ≈ −v_OP`); use SubMap M56 `Vupn1` / `Vtn1` for that 0 Ma H1 vs H2 test.
+Present-day (0 Ma) milestone is in. Cenozoic trench catalog (0–60 Ma, 1 Myr) is extracted. Reconstruction-internal UPS proxy (`bab_on`) and Schellart/frame sidecars are in. **Independent geological UPS** (22 published intervals) is in: among classified segment×time blocks the 55 Ma gate runs *opposite* Sdrolias (OR ≈ 0.5). Müller et al. (2019) **cannot** separate trench rollback from overriding-plate motion (`v_T ≈ −v_OP`); use SubMap M56 `Vupn1` / `Vtn1` for that 0 Ma H1 vs H2 test. Slide deck: `docs/presentation.md`.
 
 ## Cenozoic UPS proxy (Müller2019 back-arc spreading)
 
